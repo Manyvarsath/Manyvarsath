@@ -1,6 +1,3 @@
-
-
-```markdown
 # Hi there, I'm Manyvarsath 👋
 
 <a href="https://github.com/Manyvarsath">
@@ -39,12 +36,4 @@ Here are some highlights from my repositories that showcase my skills:
 | [**Monty Interpreter**](https://github.com/Manyvarsath/monty) | An interpreter for Monty ByteCode files, demonstrating stack and queue operations. | `C`, `Data Structures` |
 | [**Data Structures & Algorithms**](https://github.com/Manyvarsath/holbertonschool-low_level_programming) | A comprehensive collection of classic data structures (linked lists, binary trees, hash tables) and sorting/searching algorithms implemented in C. | `C`, `Algorithms`, `Data Structures`|
 
----
-
-### 📫 How to Reach Me
-
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [your-email@example.com]
-
 Thanks for visiting my profile!
-```
